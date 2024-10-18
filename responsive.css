@@ -28,7 +28,7 @@
         justify-content: center;
         place-items: center;
         height: 250px;
-        background-image: url('./public/image/mesh.png');
+        background-image: url('./code-projet/public/image/mesh.png');
         background-size: cover;
         background-repeat: no-repeat;
     }
@@ -147,7 +147,7 @@
         justify-content: center;
         place-items: center;
         height: 80px;
-        background-image: url('./public/image/mesh.png');
+        background-image: url('./code-projet/public/image/mesh.png');
         background-size: cover;
         background-repeat: no-repeat;
       
