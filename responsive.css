@@ -189,7 +189,7 @@
     #carousel  {
        
         width: 100%;
-        
+        top: 65%;
         max-width:150vw;
         height: 50vh;
         position:absolute;
@@ -285,11 +285,11 @@
         border-radius: 2%;
         width: 250px;
       
-        margin-left: 19%;
+        margin-left: 22%;
         margin-right: 5%; 
         
     }
-  
+   
 
 
 
@@ -328,7 +328,10 @@
 
 
 
-
+    h2{
+       text-align: center; 
+    }
+  
 
 
 
